@@ -50,44 +50,6 @@ A **LOGIC DEV** é uma empresa de tecnologia especializada em **desenvolvimento 
 
 ---
 
-## 🏗️ **Nossas Especialidades**
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 30px 0;">
-
-<div style="text-align: center; width: 150px;">
-  <img alt="Web Apps" height="70" src="https://img.icons8.com/color/96/000000/code--v1.png"/>
-  <h4>Desenvolvimento Web</h4>
-  <p>Aplicações modernas e responsivas</p>
-</div>
-
-<div style="text-align: center; width: 150px;">
-  <img alt="Mobile Apps" height="70" src="https://img.icons8.com/color/96/000000/cellphone.png"/>
-  <h4>Aplicativos Mobile</h4>
-  <p>iOS & Android nativos/híbridos</p>
-</div>
-
-<div style="text-align: center; width: 150px;">
-  <img alt="APIs" height="70" src="https://img.icons8.com/color/96/000000/api-settings.png"/>
-  <h4>APIs & Microservices</h4>
-  <p>Arquiteturas escaláveis</p>
-</div>
-
-<div style="text-align: center; width: 150px;">
-  <img alt="Automation" height="70" src="https://img.icons8.com/color/96/000000/automation.png"/>
-  <h4>Automação</h4>
-  <p>Otimização de processos</p>
-</div>
-
-<div style="text-align: center; width: 150px;">
-  <img alt="Security" height="70" src="https://img.icons8.com/color/96/000000/security-checked.png"/>
-  <h4>Segurança</h4>
-  <p>Proteção de dados & sistemas</p>
-</div>
-
-</div>
-
----
-
 ## 📈 **Nosso Processo**
 
 1. **Análise & Planejamento** - Entendemos seu negócio e definimos objetivos
